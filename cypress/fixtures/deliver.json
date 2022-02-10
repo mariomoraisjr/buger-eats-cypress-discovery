@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Mário Júnior",
+        "cpf": "09637548408",
+        "email": "mariomoraisjr@hotmail.com",
+        "whatsapp": "81997983066",
+        "address": {
+            "postalcode": "52110020",
+            "street": "Rua Canápolis",
+            "number": "103",
+            "details": "bloco b apt 04",
+            "district": "Tamarineira",
+            "city_state": "Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Fulando",
+        "cpf": "AAA37548408",
+        "email": "fulano@hotmail.com",
+        "whatsapp": "8199877896",
+        "address": {
+            "postalcode": "52110020",
+            "street": "Rua Canápolis",
+            "number": "103",
+            "details": "bloco b apt 04",
+            "district": "Tamarineira",
+            "city_state": "Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Ciclano",
+        "cpf": "09637548408",
+        "email": "clicanohotmail.com",
+        "whatsapp": "8199877896",
+        "address": {
+            "postalcode": "52110020",
+            "street": "Rua Canápolis",
+            "number": "103",
+            "details": "bloco b apt 04",
+            "district": "Tamarineira",
+            "city_state": "Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
